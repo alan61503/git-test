@@ -1,87 +1,205 @@
-# Frontend Mentor - QR code component
+# QR Code Card Project
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+A visually appealing QR code card built using HTML and CSS, designed to improve front-end development skills while practicing clean, minimalistic design principles.
+## Table of contents
 
-## Welcome! 👋
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## Overview
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+### Screenshot
 
-## The challenge
+![alt text](image.png)
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+### Links
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+- Solution URL: [url will be added here](https://your-solution-url.com)
+- Live Site URL: live site here](https://your-live-site-url.com)
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+## My process
 
-## Where to find everything
+### Built with
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+### 🌟 What I Learned
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+Through this project, I enhanced my understanding of **HTML and CSS** by designing a visually appealing and responsive card layout. I learned to use **flexbox** for layout alignment and applied custom **CSS properties** like `box-shadow`, `border-radius`, and `hover effects` to improve the UI/UX. Additionally, I explored how to embed and style **QR codes** effectively, ensuring a seamless user interface. This project also helped me practice writing clean and modular code, improving my front-end development skills. By researching and using design inspiration from tools like **Frontend Mentor**, I gained insight into creating professional-looking layouts while refining my knowledge of design principles.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Building your project
+To see how you can add code snippets, see below:
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+### Continued development
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
-## Create a custom `README.md`
+### Useful resources
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+# 📚 Useful Resources
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+Here’s a collection of resources that helped me while working on this project and can help you as well:
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+---
 
-## Submitting your solution
+### **HTML & CSS Fundamentals**
+- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+  Comprehensive guide to HTML elements and attributes.
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+  In-depth CSS documentation with examples.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+- [CSS Tricks](https://css-tricks.com/)  
+  Tutorials, tips, and tricks for mastering CSS.
 
-## Sharing your solution
+- [W3Schools](https://www.w3schools.com/html/default.asp)  
+  Beginner-friendly tutorials for HTML and CSS.
 
-There are multiple places you can share your solution:
+---
 
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+### **Design Tools**
+- [Figma](https://www.figma.com/)  
+  Free UI/UX design tool to create mockups and layouts.
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+- [Canva](https://www.canva.com/)  
+  Easy-to-use design tool for backgrounds and visuals.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+- [Coolors](https://coolors.co/)  
+  Generate beautiful color palettes.
 
-## Got feedback for us?
+- [Google Fonts](https://fonts.google.com/)  
+  Free fonts to enhance your typography.
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+---
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+### **Free QR Code Generators**
+- [QR Code Monkey](https://www.qrcode-monkey.com/)  
+  Free QR code generator with customization options.
 
-**Have fun building!** 🚀
+- [QRStuff](https://www.qrstuff.com/)  
+  Generate QR codes for different resources.
+
+- [GoQR](https://goqr.me/)  
+  A simple and fast QR code generator.
+
+---
+
+### **Frontend Challenges**
+- [Frontend Mentor](https://www.frontendmentor.io/)  
+  Practice front-end development with real-world projects.
+
+- [Codewell](https://www.codewell.cc/)  
+  Access free and premium UI design challenges.
+
+- [DevChallenges](https://devchallenges.io/)  
+  Solve real-life challenges to improve your web development skills.
+
+---
+
+### **CSS Libraries & Frameworks**
+- [Tailwind CSS](https://tailwindcss.com/)  
+  A utility-first CSS framework for fast styling.
+
+- [Bootstrap](https://getbootstrap.com/)  
+  Popular CSS framework for responsive design.
+
+- [Animate.css](https://animate.style/)  
+  Predefined CSS animations for web elements.
+
+---
+
+### **Learning Platforms**
+- [FreeCodeCamp](https://www.freecodecamp.org/)  
+  Interactive lessons on HTML, CSS, and web development.
+
+- [The Odin Project](https://www.theodinproject.com/)  
+  Full-stack development curriculum.
+
+- [Scrimba](https://scrimba.com/)  
+  Interactive tutorials for learning front-end development.
+
+---
+
+### **Inspiration & Community**
+- [Dribbble](https://dribbble.com/)  
+  Design inspiration for layouts and UI.
+
+- [Behance](https://www.behance.net/)  
+  Explore creative projects and ideas.
+
+- [CodePen](https://codepen.io/)  
+  Browse and share interactive front-end projects.
+
+---
+
+### **Tools for Debugging & Validation**
+- [HTML Validator](https://validator.w3.org/)  
+  Validate your HTML for errors.
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)  
+  Check your CSS for issues.
+
+- [DevTools](https://developer.chrome.com/docs/devtools/)  
+  Built-in browser tools for debugging.
+
+---
+
+### **Next Steps**
+- [Learn JavaScript](https://javascript.info/)  
+  Enhance interactivity in your projects.
+
+- [GitHub Docs](https://docs.github.com/)  
+  Learn how to manage repositories.
+
+- [Netlify](https://www.netlify.com/)  
+  Free hosting to deploy and showcase your projects.
+
+---
+
+
+## Author
+
+- Website - [alan chris disilva](https://github.com/alan61503)
+
+
+
+## Acknowledgments
+
+thanks to front end mentor for this prooject
+
