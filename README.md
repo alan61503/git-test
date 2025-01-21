@@ -39,8 +39,6 @@ A visually appealing QR code card built using HTML and CSS, designed to improve 
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### 🌟 What I Learned
 
 Through this project, I enhanced my understanding of **HTML and CSS** by designing a visually appealing and responsive card layout. I learned to use **flexbox** for layout alignment and applied custom **CSS properties** like `box-shadow`, `border-radius`, and `hover effects` to improve the UI/UX. Additionally, I explored how to embed and style **QR codes** effectively, ensuring a seamless user interface. This project also helped me practice writing clean and modular code, improving my front-end development skills. By researching and using design inspiration from tools like **Frontend Mentor**, I gained insight into creating professional-looking layouts while refining my knowledge of design principles.
