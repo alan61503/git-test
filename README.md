@@ -19,7 +19,7 @@ A visually appealing QR code card built using HTML and CSS, designed to improve 
 
 ### Screenshot
 
-![alt text](https://github.com/alan61503/git-test/blob/main/qr-code-component-main/image.png)](https://raw.githubusercontent.com/alan61503/git-test/refs/heads/main/qr-code-component-main/image.png)
+![alt text](https://raw.githubusercontent.com/alan61503/QR/refs/heads/main/qr-code-component-main/Screenshot%202025-01-22%20155059.png)
 
 ### Links
 
